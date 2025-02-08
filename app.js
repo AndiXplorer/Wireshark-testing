@@ -19,5 +19,5 @@ app.post('/submit', (req, res) => {
 });
 
 app.listen(port, '0.0.0.0', () => {
-  console.log(`Server listening on http://192.168.10.163:${port}`);
+  console.log(`Server listening on http://urip:${port}`);
 });
