@@ -1,0 +1,12 @@
+{
+  "name": "express-tcpdump",
+  "version": "1.0.0",
+  "description": "This project is a simple **Express.js server** that listens on **port 3000** and captures HTTP POST requests.   You can also use `tcpdump` to monitor network traffic on this server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
